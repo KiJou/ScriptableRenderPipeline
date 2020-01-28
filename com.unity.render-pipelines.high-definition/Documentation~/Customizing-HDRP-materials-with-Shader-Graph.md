@@ -74,7 +74,7 @@ If you want a property value to be the same for every Material that uses the Sha
 
 Concrete nodes that define a Texture (or a Texture array) define an unexposed property in the Shader. This means that they contribute to the size of the Material on disk, just like Blackboard properties.
 
-<a name=""></a>
+<a name="MaterialSurfaceOptionProperties"></a>
 
 ### Material Surface Option properties
 
